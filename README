@@ -1,0 +1,9 @@
+Toy Robot Simulator
+Written in Kotlin
+
+To run and test the project:
+1. Import it to Intellij IDEA,
+2. Run the main function and follow the instructions
+
+The program takes a text file with a list of commands separated by spaces as an input.
+You can find the test files in "testdata" package.
